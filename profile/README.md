@@ -2,7 +2,7 @@
 
 # ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎‎‎ ‎ 🌍CubedWorld🌍
 <strong>CubedWorld</strong> is a Minecraft Server in development that has custom of everything from mobs to weapons!
-**Discord** https://discord.cubedworld.xyz
-**Website** https://cubedworld.xyz
-**Forum** https://forum.cubedworld.xyz
-**Store** https://cubedworld-store.tebex.io
+**Discord** https://discord.cubedworld.xyz <br>
+**Website** https://cubedworld.xyz <br>
+**Forum** https://forum.cubedworld.xyz <br>
+**Store** https://cubedworld-store.tebex.io <br>
